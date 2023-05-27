@@ -1,6 +1,6 @@
 # Car-Price-prediction
 
-– The price of a new car in the industry is fixed by the manufacturer with some additional costs incurred
+ The price of a new car in the industry is fixed by the manufacturer with some additional costs incurred
 by the Indian Government in the form of taxes. So, customers buying a brand-new vehicle may be confident of the
 money they make investments to be worth. But, due to the increased prices of new cars and the financial incapability
 of the customers to buy them, used Car sales are on a global increase. Therefore, to find the car price which would
